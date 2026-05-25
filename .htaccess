@@ -1,0 +1,16 @@
+RewriteEngine On
+
+# Remove .php extension (optional, for cleaner URLs)
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule ^(.+)$ $1.php [L]
+
+# Security: deny access to config and SQL files
+<FilesMatch "\.(sql|md)$">
+    Deny from all
+</FilesMatch>
+
+# Security: deny access to config directory
+<FilesMatch "^(config|sql)/">
+    Deny from all
+</FilesMatch>

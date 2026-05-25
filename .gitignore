@@ -1,0 +1,33 @@
+# Environnement
+.env
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Kiro (internal tool)
+.kiro/
+
+# Presentation prep files (not part of the project)
+docs/presentation-*.html
+docs/presentation-guide.md
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Uploads
+assets/uploads/cv/*
+assets/uploads/logos/*
+!assets/uploads/cv/.gitkeep
+!assets/uploads/logos/.gitkeep
+
+# Photos (user-supplied)
+photos/illustrations/*
+photos/universites/*
+!photos/illustrations/.gitkeep
+!photos/universites/.gitkeep
+photos/favicon.png

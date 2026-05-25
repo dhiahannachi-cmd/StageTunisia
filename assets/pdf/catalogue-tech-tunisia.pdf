@@ -1,0 +1,80 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> /Contents 4 0 R >>
+endobj
+4 0 obj
+<< /Length 1198 >>
+stream
+BT
+/F2 20 Tf
+1 0 0 1 50 730 Tm
+(Catalogue PFE 2026 - Tech Tunisia) Tj
+/F1 12 Tf
+1 0 0 1 50 710 Tm
+(Localisation: Tunis - El Ghazala) Tj
+/F2 14 Tf
+0.2 0.4 0.8 rg
+1 0 0 1 50 660 Tm
+(Sujet 1 : Migration Cloud et Orchestration Securisee) Tj
+/F1 11 Tf
+0 0 0 rg
+1 0 0 1 50 642 Tm
+(Description : Conteneurisation et migration d applications legacy vers AWS.) Tj
+1 0 0 1 50 627 Tm
+(Technologies : AWS, Docker, Kubernetes, Terraform) Tj
+1 0 0 1 50 612 Tm
+(Profil recherche : Ingenieur DevOps / Cloud) Tj
+/F2 14 Tf
+0.2 0.4 0.8 rg
+1 0 0 1 50 577 Tm
+(Sujet 2 : Application Mobile de Suivi Logistique) Tj
+/F1 11 Tf
+0 0 0 rg
+1 0 0 1 50 559 Tm
+(Description : Application cross-platform pour le suivi de flotte en temps reel.) Tj
+1 0 0 1 50 544 Tm
+(Technologies : Flutter, Dart, Firebase, Google Maps API) Tj
+1 0 0 1 50 529 Tm
+(Profil recherche : Developpeur Mobile) Tj
+/F2 14 Tf
+0.2 0.4 0.8 rg
+1 0 0 1 50 494 Tm
+(Sujet 3 : Portail B2B E-commerce) Tj
+/F1 11 Tf
+0 0 0 rg
+1 0 0 1 50 476 Tm
+(Description : Mise en place d un portail client pour la commande de materiel IT.) Tj
+1 0 0 1 50 461 Tm
+(Technologies : Next.js, NestJS, MongoDB, Stripe) Tj
+1 0 0 1 50 446 Tm
+(Profil recherche : Ing. Informatique / Web) Tj
+ET
+
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000251 00000 n 
+0000001501 00000 n 
+0000001571 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+1646
+%%EOF

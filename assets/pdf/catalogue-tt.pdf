@@ -1,0 +1,80 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> /Contents 4 0 R >>
+endobj
+4 0 obj
+<< /Length 1195 >>
+stream
+BT
+/F2 20 Tf
+1 0 0 1 50 730 Tm
+(Catalogue PFE 2026 - Tunisie Telecom) Tj
+/F1 12 Tf
+1 0 0 1 50 710 Tm
+(Localisation: Tunis - Ariana) Tj
+/F2 14 Tf
+0.2 0.4 0.8 rg
+1 0 0 1 50 660 Tm
+(Sujet 1 : Supervision Predictive du Reseau 5G) Tj
+/F1 11 Tf
+0 0 0 rg
+1 0 0 1 50 642 Tm
+(Description : Prevision des pannes reseau en utilisant les donnees telemetriques.) Tj
+1 0 0 1 50 627 Tm
+(Technologies : Big Data, Hadoop, Spark, TensorFlow) Tj
+1 0 0 1 50 612 Tm
+(Profil recherche : Ing. Telecom / Data Engineer) Tj
+/F2 14 Tf
+0.2 0.4 0.8 rg
+1 0 0 1 50 577 Tm
+(Sujet 2 : Portail Self-Service B2C) Tj
+/F1 11 Tf
+0 0 0 rg
+1 0 0 1 50 559 Tm
+(Description : Refonte de l espace client web pour la gestion des abonnements.) Tj
+1 0 0 1 50 544 Tm
+(Technologies : Angular 16, Spring Boot, Oracle DB) Tj
+1 0 0 1 50 529 Tm
+(Profil recherche : Developpeur Fullstack) Tj
+/F2 14 Tf
+0.2 0.4 0.8 rg
+1 0 0 1 50 494 Tm
+(Sujet 3 : Securisation des API Internes) Tj
+/F1 11 Tf
+0 0 0 rg
+1 0 0 1 50 476 Tm
+(Description : Mise en place d une API Gateway pour centraliser les requetes.) Tj
+1 0 0 1 50 461 Tm
+(Technologies : Kong API Gateway, JWT, Microservices) Tj
+1 0 0 1 50 446 Tm
+(Profil recherche : Architecte Logiciel / Backend) Tj
+ET
+
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000251 00000 n 
+0000001498 00000 n 
+0000001568 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+1643
+%%EOF
